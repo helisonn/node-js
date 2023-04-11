@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Meu primeiro aplicativo web com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helisonn/node-js.git"
+  },
+  "author": "helisonn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helisonn/node-js/issues"
+  },
+  "homepage": "https://github.com/helisonn/node-js#readme"
+}
