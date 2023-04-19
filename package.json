@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/helisonn/node-js/issues"
   },
-  "homepage": "https://github.com/helisonn/node-js#readme"
+  "homepage": "https://github.com/helisonn/node-js#readme",
+  "dependencies": {
+    "formidable": "^2.1.1"
+  }
 }
